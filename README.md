@@ -25,10 +25,12 @@
 
 ➡️ Register : https://t.me/Binance_Moonbix_bot/start?startApp=ref_5703822759&startapp=ref_5703822759&utm_medium=web_share_copy
 
-➖ Daily Check In
-➖ Complete Task
-➖ Play Game
+- Daily Check In
+- Complete Task
+- Play Game
+  
 📌 Use 1.1.1.1 (Cloudflare DNS) if you can't open the game
+
 📌 I don't know if i can make bot for this or not because it using official binance website which is already secured.
 
 ## Join My Telegram Channel
