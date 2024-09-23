@@ -157,7 +157,7 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 5. Navigate to `moonbix-bot` directory.
 6. Make new folder named `accounts`.
 7. Navigate to `config` folder and rename `config_tmp.js` to `config.js` also `proxy_list_tmp.js` to `proxy_list.js`.
-8. Now Open and configure `config.js`.
+8. Now Open and configure `config.js` and `proxy_list.js` (if you use proxy).
 9. Now back to the `moonbix-bot` folder
 10. To start the app open your `Command Prompt` or `Power Shell` again and run
     ```
