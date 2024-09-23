@@ -32,7 +32,7 @@
 📌 I don't know if i can make bot for this or not because it using official binance website which is already secured.
 
 ## Join My Telegram Channel
-
+```
                                                           
                       ...                                 
                      .;:.                                 
@@ -66,7 +66,9 @@
    .OMWXNaMX dM0  kM0 MMKxNXKW0    axMk   .                 
    .OMk  dWK oWX XWdx Mxx  XMMO    akMx   .                 
    'OWo  dM0 'kNNXNNd DMD   OWk    aoWd   .                 
-   ........................................                 
+   ........................................
+
+```           
                                               
                                               
 
