@@ -1,4 +1,4 @@
-# MOONBIX BOT
+# MOONBIX BOT (THIS BOT IS DEPRECATED)
 
 ## Table Of Contents
 
